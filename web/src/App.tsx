@@ -24,8 +24,8 @@ function App() {
        
       </header>
       <Canvas 
-       width={"200"}
-       height={'400'}
+       width={"800"}
+       height={'800'}
        strokes={strokes}
        setStrokes={setStrokes}>
                  </Canvas>
